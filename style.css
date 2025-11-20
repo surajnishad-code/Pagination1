@@ -54,3 +54,8 @@ h1{
     color: rgb(21, 68, 52);
     margin-bottom: 20px;
 }
+
+#count{
+    margin-top: 20px;
+    color: rgb(20, 80, 80);
+}
